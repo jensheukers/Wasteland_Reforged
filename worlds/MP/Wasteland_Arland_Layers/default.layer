@@ -1,0 +1,15 @@
+SCR_BaseGameMode GameMode_TeamDeathmatch_Selection1 : "{1B6C9BC044DA3B21}Prefabs/MP/Modes/TeamDeathmatch/GameMode_TeamDeathmatch_Selection.et" {
+ coords 1394.909 35.977 2372.643
+}
+SCR_FactionManager FactionManager_USxUSSR1 : "{589540B35EBA8CDC}Prefabs/MP/Managers/Factions/FactionManager_USxUSSR.et" {
+ coords 1398.399 35.915 2370.594
+}
+SCR_SpawnPoint : "{4FEA25583D0975F7}Prefabs/MP/Spawning/SpawnPoint_USSR.et" {
+ coords 1398.854 35.966 2373.804
+}
+SCR_SpawnPoint : "{5A2220DD0C16958B}Prefabs/MP/Spawning/SpawnPoint_US.et" {
+ coords 1393.893 36.066 2372.417
+}
+SCR_LoadoutManager : "{97EF4C1A41F63DDB}Prefabs/MP/Managers/Loadouts/LoadoutManager_USxUSSR.et" {
+ coords 1395.434 35.928 2372.566
+}
