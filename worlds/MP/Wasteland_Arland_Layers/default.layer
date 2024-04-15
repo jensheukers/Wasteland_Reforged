@@ -1,8 +1,17 @@
-SCR_BaseGameMode GameMode_TeamDeathmatch_Selection1 : "{1B6C9BC044DA3B21}Prefabs/MP/Modes/TeamDeathmatch/GameMode_TeamDeathmatch_Selection.et" {
- coords 1394.909 35.977 2372.643
-}
 SCR_FactionManager FactionManager_USxUSSR1 : "{589540B35EBA8CDC}Prefabs/MP/Managers/Factions/FactionManager_USxUSSR.et" {
  coords 1398.399 35.915 2370.594
+}
+WL_BaseGameMode GameMode_Wasteland1 : "{6BD025467F7ADAF9}Prefabs/GameMode/GameMode_Wasteland.et" {
+ coords 1394.192 36.051 2378.789
+}
+GenericEntity : "{11D13CA66F5FEDFE}Prefabs/Spawners/WL_ItemSpawner_Equipment.et" {
+ coords 1393.942 36.033 2383.451
+}
+GenericEntity : "{192A8E8F87DD4064}Prefabs/Spawners/WL_ItemSpawner_Rifles.et" {
+ coords 1398.942 36.516 2381.579
+}
+GenericEntity : "{4D913D4537F387CD}Prefabs/Spawners/WL_ItemSpawner_Grenades.et" {
+ coords 1387.596 36.231 2377.699
 }
 SCR_SpawnPoint : "{4FEA25583D0975F7}Prefabs/MP/Spawning/SpawnPoint_USSR.et" {
  coords 1398.854 35.966 2373.804
@@ -10,6 +19,30 @@ SCR_SpawnPoint : "{4FEA25583D0975F7}Prefabs/MP/Spawning/SpawnPoint_USSR.et" {
 SCR_SpawnPoint : "{5A2220DD0C16958B}Prefabs/MP/Spawning/SpawnPoint_US.et" {
  coords 1393.893 36.066 2372.417
 }
+GenericEntity : "{730619A0D1A8FB55}Prefabs/Spawners/WL_ItemSpawner_Explosives.et" {
+ coords 1397.96 36.516 2383.28
+}
+GenericEntity : "{893C94094FE3495E}Prefabs/Spawners/WL_ItemSpawner_Pistols.et" {
+ coords 1396.779 36.223 2380.226
+}
 SCR_LoadoutManager : "{97EF4C1A41F63DDB}Prefabs/MP/Managers/Loadouts/LoadoutManager_USxUSSR.et" {
  coords 1395.434 35.928 2372.566
+}
+GenericEntity : "{A8B741A1BED130F7}Prefabs/Spawners/WL_ItemSpawner_HeadGear.et" {
+ coords 1392.235 36.118 2377.968
+}
+GenericEntity : "{C5F930F176DCA7FD}Prefabs/Spawners/WL_ItemSpawner_Clothing.et" {
+ coords 1391.021 36.14 2380.791
+}
+GenericEntity : "{DA1854D0CAF82282}Prefabs/Spawners/WL_ItemSpawner_Vests.et" {
+ coords 1394.521 36.024 2380.864
+}
+GenericEntity : "{DBC06B5B7971FA99}Prefabs/Spawners/WL_ItemSpawner_Ammo.et" {
+ coords 1390.807 36.144 2377.831
+}
+GenericEntity : "{DD0BD6D497D151E4}Prefabs/Spawners/WL_ItemSpawner_Tools.et" {
+ coords 1392.901 36.092 2380.292
+}
+GenericEntity : "{EEA7EDBC2D9B3049}Prefabs/Spawners/WL_ItemSpawner_Medical.et" {
+ coords 1394.226 36.042 2380.613
 }

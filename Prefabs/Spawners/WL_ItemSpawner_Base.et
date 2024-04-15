@@ -1,0 +1,8 @@
+GenericEntity {
+ ID "611EAE813E0CB360"
+ components {
+  WL_ItemSpawnerComponent "{611EAE80C70C2316}" {
+  }
+ }
+ coords 1393.005 36.063 2382.094
+}

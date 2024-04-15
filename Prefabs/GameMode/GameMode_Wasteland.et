@@ -1,0 +1,8 @@
+WL_BaseGameMode : "{1B76F75A3175E85C}Prefabs/MP/Modes/Plain/GameMode_Plain.et" {
+ ID "56B2B479C6B96951"
+ coords 1391.866 36.127 2378.671
+ m_aSpawnerConfigs {
+  WL_ItemSpawnerConfig "{611EAE8086FA6E10}" : "{5EBD457DC85E65FC}Configs/Spawners/WL_PistolSpawnerConfig.conf" {
+  }
+ }
+}

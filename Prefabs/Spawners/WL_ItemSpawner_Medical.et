@@ -1,0 +1,9 @@
+GenericEntity : "{4AAF0B193168438C}Prefabs/Spawners/WL_ItemSpawner_Base.et" {
+ ID "611EAE813E0CB360"
+ components {
+  WL_ItemSpawnerComponent "{611EAE80C70C2316}" {
+   m_eSpawnerType MEDICAL
+  }
+ }
+ coords 1393.067 36.079 2380.842
+}
